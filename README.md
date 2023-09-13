@@ -80,7 +80,7 @@ endmodule
 ```
 
 ## Logic symbol & Truthtable:
-![img](de1.png)
+![img](de1.jpeg)
 ![img](de2.png)
 
 ## Output:
